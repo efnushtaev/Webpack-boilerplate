@@ -1,5 +1,5 @@
 # Webpack-boilerplate
-Simple webpack boilerplate. This is mostly a sandbox :mechanic:
+#### Simple webpack boilerplate. This is mostly a sandbox :mechanic:
 
 Includs React, Typescript, LESS, jQuery, Lodash, ESlint
 
