@@ -1,0 +1,26 @@
+@import './roboto.css';
+@import '~normalize.css';
+
+body {
+  font-family: 'Roboto', sans-serif
+}
+
+h2 {
+  text-align: center
+}
+
+.container {
+  padding-top: 2rem;
+  max-width: 1000px;
+  margin: 0 auto;
+  flex-direction: column;
+  display: flex;
+  align-items: center;
+}
+
+.pic {
+  background-image: url('../assets/cat.png');
+  background-size: cover;
+  height: 320px;
+  width: 320px;
+}
